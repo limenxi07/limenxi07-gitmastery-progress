@@ -302,15 +302,5 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1787839101.522032,
-    "completed_at": 1787839105.112439,
-    "comments": [
-      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
