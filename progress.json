@@ -339,5 +339,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787843453.740508,
+    "completed_at": 1787843456.949243,
+    "comments": [
+      "You are working on the wrong branch! Bring the changes from supporting onto main, not the other way around."
+    ],
+    "status": "Incomplete"
   }
 ]
